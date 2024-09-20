@@ -1,0 +1,30 @@
+[
+    {
+      "nomeProduto": "Augusta Pullover Jacket",
+      "tamanho": "XS",
+      "cor": "Red",
+      "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Josie Yoga Jacket",
+        "tamanho": "L",
+        "cor": "Blue",
+        "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Ingrid Running Jacket",
+        "tamanho": "S",
+        "cor": "White",
+        "quantidade": 1
+    },
+
+    {
+        "nomeProduto": "Circe Hooded Ice Fleece",
+        "tamanho": "M",
+        "cor": "Purple",
+        "quantidade": 1
+    }
+
+]
